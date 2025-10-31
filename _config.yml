@@ -1,4 +1,4 @@
-title: "Verónica Mäki-Marttunen's Lab on Brain Dynamics"
+title: "Verónica Mäki-Marttunen's Research on Brain Dynamics"
 author: "Verónica Mäki-Marttunen"
 description: "Slow brain dynamics, neuromodulation and behavior"
 permalink: /:title/
@@ -18,13 +18,13 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html",title: "Research", sidebaricon: home}
-  - {file: "README.md", title: "CV", sidebaricon: address-card}
+  - {file: "research.md",title: "Research", sidebaricon: home}
+  - {file: "CV_VMM.pdf", title: "CV", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:veroniex@uio.no"}
   - {title: Github, icon: github, url: "https://github.com/VeronicaMaki-Marttunen"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: LinkedIn, icon: rss, url: "https://www.linkedin.com/in/veronicamaekimarttunen/"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
