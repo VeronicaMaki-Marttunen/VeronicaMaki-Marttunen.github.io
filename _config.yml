@@ -20,6 +20,7 @@ show_minimal: false             # remove all clutter
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "research.md",title: "Research", sidebaricon: home}
   - {file: "TENK_CV_VMM.pdf", title: "CV"} # , sidebaricon: address-card
+  - {file: "index.md",title: "Home", sidebaricon: home}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:veroniex@uio.no"}
