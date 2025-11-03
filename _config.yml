@@ -18,7 +18,7 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md",title: "Home", sidebaricon: home}
+  - {file: "blog.md",title: "Blog", sidebaricon: home}
   - {file: "research.md",title: "Research"} # , sidebaricon: home
   - {file: "TENK_CV_VMM.pdf", title: "CV"} # , sidebaricon: address-card
   
