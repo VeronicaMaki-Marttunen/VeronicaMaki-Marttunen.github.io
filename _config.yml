@@ -19,7 +19,7 @@ show_minimal: false              # Remove all clutter
 navigation:                     # Accepts {file, title, url, icon, sidebaricon}
   - {file: "blog.md", title: "Blog", sidebaricon: home}
   - {file: "research.md", title: "Research"} #, sidebaricon: home
-  - {file: "/TENK_CV_VMM.pdf", title: "CV"} #, sidebaricon: address-card
+  - {file: "assets/TENK_CV_VMM.pdf", title: "CV"} #, sidebaricon: address-card
 
 external:                       # Accepts {file, title, url, icon, sidebaricon}
   - {title: "Mail", icon: "envelope", url: "mailto:veroniex@uio.no"}
