@@ -24,7 +24,7 @@ navigation:                     # Accepts {file, title, url, icon, sidebaricon}
 external:                       # Accepts {file, title, url, icon, sidebaricon}
   - {title: "Mail", icon: "envelope", url: "mailto:veroniex@uio.no"}
   - {title: "GitHub", icon: "github", url: "https://github.com/VeronicaMaki-Marttunen"}
-  - {title: "LinkedIn", icon: "linkedin", url: "https://www.linkedin.com/in/veronicamaekimarttunen/"}
+  - {title: "LinkedIn", icon: "rss", url: "https://www.linkedin.com/in/veronicamaekimarttunen/"}
 
 # Comments Configuration
 comments:
