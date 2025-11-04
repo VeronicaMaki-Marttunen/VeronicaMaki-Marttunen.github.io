@@ -1,35 +1,36 @@
+# Site Information
 title: "Verónica Mäki-Marttunen's Research on Brain Dynamics"
 author: "Verónica Mäki-Marttunen"
-description: "Slow brain dynamics, neuromodulation and behavior"
-permalink: /:title/
+description: "Slow brain dynamics, neuromodulation, and behavior"
 lang: "en"
-excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
-# Layout
+# Permalink Configuration
+permalink: /:title/
+excerpt_separator: "\n\n\n"
 
-show_excerpts: false             # show article excerpts instead of archive list on the home page
-show_frame: true                # display a grey frame on large screens
-show_sidebar: false             # show a sidebar instead of the usual header
-show_minimal: false             # remove all clutter
+# Layout Options
+show_excerpts: false             # Show article excerpts instead of an archive list on the home page
+show_frame: true                 # Display a grey frame on large screens
+show_sidebar: false               # Show a sidebar instead of the usual header
+show_minimal: false              # Remove all clutter
 
-#show_frame: "/assets/images/background.svg"
+# Menu Configuration
+navigation:                     # Accepts {file, title, url, icon, sidebaricon}
+  - {file: "blog.md", title: "Blog", sidebaricon: home}
+  - {file: "research.md", title: "Research"} #, sidebaricon: home
+  - {file: "TENK_CV_VMM.pdf", title: "CV"} #, sidebaricon: address-card
 
-# Menu                          # for available icons see https://fontawesome.com/v5/icons/
+external:                       # Accepts {file, title, url, icon, sidebaricon}
+  - {title: "Mail", icon: "envelope", url: "mailto:veroniex@uio.no"}
+  - {title: "GitHub", icon: "github", url: "https://github.com/VeronicaMaki-Marttunen"}
+  - {title: "LinkedIn", icon: "linkedin", url: "https://www.linkedin.com/in/veronicamaekimarttunen/"}
 
-navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "blog.md",title: "Blog", sidebaricon: home}
-  - {file: "research.md",title: "Research"} # , sidebaricon: home
-  - {file: "TENK_CV_VMM.pdf", title: "CV"} # , sidebaricon: address-card
-  
-external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:veroniex@uio.no"}
-  - {title: Github, icon: github, url: "https://github.com/VeronicaMaki-Marttunen"}
-  - {title: LinkedIn, icon: rss, url: "https://www.linkedin.com/in/veronicamaekimarttunen/"}
-
+# Comments Configuration
 comments:
-#  disqus_shortname: ""         # see https://disqus.com
-#  isso_domain: ""              # see https://isso-comments.de
+  # disqus_shortname: ""         # See https://disqus.com
+  # isso_domain: ""              # See https://isso-comments.de
 
+# Plugins Configuration
 plugins:
- - jekyll-feed
+  - jekyll-feed
