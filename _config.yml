@@ -18,6 +18,7 @@ show_minimal: false              # Remove all clutter
 # Menu Configuration
 navigation:                     # Accepts {file, title, url, icon, sidebaricon}
   - {file: "research.md", title: "Research"} # , sidebaricon: home
+  - {file: "teaching.md", title: "Teaching"} 
   - {file: "cv.md", title: "CV"} # , sidebaricon: address-card
   - {file: "blog.md", title: "Blog", sidebaricon: home}
 
