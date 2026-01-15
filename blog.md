@@ -19,8 +19,8 @@ While this situation has been going on for a long time and many acknowledge it, 
 
 -Increase the availability of funding as more abundant funding opportunites for smaller money. In this way, it would allow the development of independent research projects, which are challenging to initiate due to the competitive nature of larger funding opportunities.
 
--Increase the involvement between industry and academia that with small budgets helps develop basic research.
+-Increase the involvement of industry in academia that with small budgets can help develop basic research.
 
--Teach leadership to proffesors and leaders. They often see the young academics as highly qualified research assistants rather than trainees that aim to develop their own independent lines of research.
+-Educate proffesors and group leaders in effective leadership. They often see the young academics as highly qualified research assistants rather than trainees that aim to develop their own independent lines of research.
 
 Hope many join in the thinking process. Young academics are the largest force moving science forward -they should be prioritized!
