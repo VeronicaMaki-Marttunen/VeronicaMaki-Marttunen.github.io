@@ -9,7 +9,7 @@ Academia yesterday, today, tomorrow.
 "Academia is broken. What can we do?"
 ---
 
-PhD students and postdocs are the the groups in academia that suffer the most psychological  problems. Anxiety, depression and sleeping problems are fairly common. In my case, insomnic nights carry with me day after day.
+PhD students and postdoctoral researchers are  the groups in academia that face the most significant psychological challenges. Anxiety, depression, and sleep disorders are prevalent according to recent surveys.
 
 And they are led by those who actually have it best: proffesors and leaders. Can this work?
 
