@@ -15,7 +15,7 @@ And they are led by those who actually have it best: proffesors and leaders. Is 
 
 While this situation has been going on for a long time and many acknowledge it, little has changed. I offer a few suggestions in hopes of sparking a broader conversation and contributing to the development of more effective solutions than simply addressing the symptoms of stress.
 
--Increase the number of partial positions that are permanent, such as permanent 50% positions. In that way, postdocs can keep an affiliation, some economic security, and the access to resources.
+-Increase the number of permanent partial positions, such as permanent 50% positions. In that way, postdocs can keep an affiliation, some economic security, and the access to resources.
 
 -Increase the availability of funding as more abundant funding opportunites of smaller money. In this way, they would allow the development of independent lines, which are very difficult to establish if what is only available is large funding that is very hard to get
 
