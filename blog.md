@@ -6,7 +6,7 @@ title: "Blog"
 Academia yesterday, today, tomorrow.
 
 ---
-"Academia is broken. What can we do?"
+Academia is broken. What can we do?
 ---
 
 PhD students and postdoctoral researchers are  the groups in academia that face the most significant psychological challenges. Anxiety, depression, and sleep disorders are prevalent according to recent surveys.
