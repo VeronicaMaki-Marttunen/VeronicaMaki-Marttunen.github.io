@@ -11,7 +11,7 @@ Academia yesterday, today, tomorrow.
 
 PhD students and postdoctoral researchers are  the groups in academia that face the most significant psychological challenges. Anxiety, depression, and sleep disorders are prevalent according to recent surveys.
 
-And they are led by those who actually have it best: proffesors and leaders. Is this system truly sustainable?
+At the same time, young academics are led by those who, according to those surveys, have it best at work: proffesors and leaders. Is this system truly sustainable?
 
 While this situation has been going on for a long time and many acknowledge it, little has changed. I offer a few suggestions in hopes of sparking a broader conversation and contributing to the development of more effective solutions than simply addressing the symptoms of stress.
 
