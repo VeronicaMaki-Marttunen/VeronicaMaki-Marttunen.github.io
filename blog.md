@@ -21,6 +21,6 @@ While this situation has been going on for a long time and many acknowledge it, 
 
 -Increase the involvement of industry in academia that with small budgets can help develop basic research.
 
--Educate proffesors and group leaders in effective leadership. They often see the young academics as highly qualified research assistants rather than trainees that aim to develop their own independent lines of research.
+-Educate proffesors and group leaders in effective leadership. They should recognize young academics not just as skilled research assistants but as emerging scholars who aspire to develop independent research paths.
 
-Hope many join in the thinking process. Young academics are the largest force moving science forward -they should be prioritized!
+I encourage everyone to contribute to this critical discussion. Young academics are a driving force in advancing science and innovation; thus, they should be a priority in our efforts to improve academia!
