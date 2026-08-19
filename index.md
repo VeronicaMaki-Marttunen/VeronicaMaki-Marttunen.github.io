@@ -18,7 +18,7 @@ I am currently a researcher at the Brain plasticity and psychiatry lab at Oslo U
 <br style="clear:both;">
 ---
 
-## Reflections on Discovery
+<!## Reflections on Discovery>
 
 > There is nothing so easy as what was discovered yesterday,  
 > nor so difficult as what will be discovered tomorrow.  
@@ -31,6 +31,7 @@ I am currently a researcher at the Brain plasticity and psychiatry lab at Oslo U
 I pursue two main lines of research. 
 
 I) Modulation of slow brain dynamics
+
 I investigate how slow fluctuations in brain activity and neuromodulatory systems:
 
 - Shape ongoing brain dynamics across multiple time scales  
@@ -38,6 +39,7 @@ I investigate how slow fluctuations in brain activity and neuromodulatory system
 - Can be modelled and understood using computational and theoretical frameworks
 
 II) The human brainstem neuromodulatory systems
+
 I investigate brainstem nuclei characteristics in health and disease:
 
 - Strong methodological development and validation for better localisation of small brainstem nuclei  
@@ -50,7 +52,7 @@ For more details, see the **[Research](/research/)** page.
 
 ## Teaching & Mentoring
 
-I teach and supervise students in areas related to neuroscience and brain dynamics, and I am particularly interested in:
+I teach and supervise students in areas related to neuroscience, brainstem MRI, and brain dynamics, and I am particularly interested in:
 
 - Helping students bridge theory and experiment  
 - Encouraging critical thinking about methods and data  
