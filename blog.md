@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Blog"
+title: "Essays & Reflections"
 ---
 
 Academia yesterday, today, tomorrow.
 
 ---
-Neuroimaging today
+The blog is under construction...
 ---
 
