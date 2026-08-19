@@ -3,7 +3,8 @@ layout: page
 title: "Home"
 ---
 
-![Verónica Mäki-Marttunen](veronica-profile.jpg)
+<img src="veronica-profile.jpg" alt="Verónica Mäki-Marttunen"
+     style="float:left; margin:0 20px 20px 0; width:200px;">
 
 ## About Me
 
@@ -13,6 +14,7 @@ My work focuses on **slow brain dynamics**, **neuromodulation**, and **behavior*
 
 I am currently a researcher at the Brain plasticity and psychiatry lab at Oslo University Hospital, Norway.
 
+<br style="clear:both;">
 ---
 
 ## Research Focus
