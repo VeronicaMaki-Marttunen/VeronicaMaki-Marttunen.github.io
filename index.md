@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Home"
+title: ""
 ---
 
 <img src="veronica-profile.jpg" alt="Verónica Mäki-Marttunen"
@@ -8,7 +8,8 @@ title: "Home"
 
 ## About Me
 
-How seemingly irregular, spiky brain activity gives rise to our rich subjective experience and our ability to interact with the environment, reflect, think, and discover? I am a biologist and experimental neuroscientist and am interested in unveiling the brain mechanisms underlying consciousness and cognition. My current research is on the role of neuromodulatory systems on behavior and brain activity and dynamics. This is challenging in humans, and therefore I am employing a variety of methods, including pharmacology, MRI and neurophysiological measures such as pupillometry and EEG. I am also interested in the use of AI in research and the scientific practice, which I believe is now a new experimental ground.
+How seemingly irregular, spiky brain activity gives rise to our rich subjective experience and our ability to interact with the environment, reflect, think, and discover? 
+I am a biologist and experimental neuroscientist and am interested in unveiling the brain mechanisms underlying consciousness and cognition. My current research is on the role of neuromodulatory systems on behavior and brain activity and dynamics. This is challenging in humans, and therefore I am employing a variety of methods, including pharmacology, MRI and neurophysiological measures such as pupillometry and EEG. I am also interested in the use of AI in research and the scientific practice, which I believe is now a new experimental ground.
 
 My work focuses on **slow brain dynamics**, **neuromodulation**, and **behavior**, combining experimental and computational approaches.
 
@@ -17,17 +18,27 @@ I am currently a researcher at the Brain plasticity and psychiatry lab at Oslo U
 <br style="clear:both;">
 ---
 
+## Reflections on Discovery
+
+> There is nothing so easy as what was discovered yesterday,  
+> nor so difficult as what will be discovered tomorrow.  
+> — Jean-Baptiste de Biot
+
+---
+
 ## Research Focus
 
 I pursue two main lines of research. 
 
-I) Modulation of slow brain dynamics: I investigate how slow fluctuations in brain activity and neuromodulatory systems:
+I) Modulation of slow brain dynamics
+I investigate how slow fluctuations in brain activity and neuromodulatory systems:
 
 - Shape ongoing brain dynamics across multiple time scales  
 - Influence cognition and behavior  
 - Can be modelled and understood using computational and theoretical frameworks
 
-II) The human brainstem neuromodulatory systems: I investigate brainstem nuclei characteristics in health and disease:
+II) The human brainstem neuromodulatory systems
+I investigate brainstem nuclei characteristics in health and disease:
 
 - Strong methodological development and validation for better localisation of small brainstem nuclei  
 - Relation to lifestyle, cognition and behavior  
@@ -58,14 +69,6 @@ You can find more information on courses and supervision on the **[Teaching](/te
 <!-- New blog post: *Post title* – see the **[Blog](/blog/)** page for reflections on academia and neuroscience. -->
 
 For a full overview of my positions, publications, and grants, visit my **[CV](/cv/)** page.
-
----
-
-## Reflections on Discovery
-
-> There is nothing so easy as what was discovered yesterday,  
-> nor so difficult as what will be discovered tomorrow.  
-> — Jean-Baptiste de Biot
 
 
 ---
