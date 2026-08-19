@@ -32,14 +32,15 @@ A. Peer-reviewed scientific articles
 23. V Mäki-Marttunen, U Sailer, J Kopal, E Hagen, A Shadrin, OA Andreassen, ... (accepted) Large-scale neuroimaging and genetic analyses of the human thalamus in loneliness. Biological Psychiatry Global Open Science, 100798
 24. V Mäki-Marttunen. (2026) Infra-slow brain fluctuations: a taxonomy of mechanistic hypotheses. Neuroscience & Biobehavioral Reviews, 106825
  
-B. Non-refereed scientific articles
+B. Preprints
 1.	Amekran, N., Mäki-Marttunen, V. Working memory-related activity in catecholaminergic nuclei in schizophrenia. BioRxiv (2023) https://doi.org/10.1101/2023.08.28.555235
 2.	V Mäki-Marttunen, T Hagen, T Espeseth. (2025) Neural correlates of image memorability: Combining large-scale 7T fMRI with machine learning-based predictions. BioRxiv (2025) 2025.04. 06.647493
+3.	T Mäki-Marttunen, N Parker, V Mäki-Marttunen, SA Neymotin, A Shadrin, ... Multimodal evidence for a mechanistic model of working memory deficits in schizophrenia. medRxiv, 2026.06. 24.26356367
 
-E. Publications intended for the general public, linked to the applicant’s research
+C. Publications intended for the general public, linked to the applicant’s research
 1.	Blog post: Hva skjer når hjernen blir overbelastet? Mäki-Marttunen, V. 2018 Forskning.no https://forskning.no/stress-forskeren-forteller-hjernen/hva-skjer-nar-hjernen-blir-overbelastet/1189491
 2.	Blog post: Tracing consciousness down to the cell. Mäki-Marttunen, V. 2022 Leiden Psychology Blog. https://www.leidenpsychologyblog.nl/articles/tracing-consciousness-down-to-the-cell
 
-G. Theses
+D. Theses
 Expósito, Verónica. "Study of neuronal networks related to spontaneous brain processes, attention and motor planning in healthy subjects and neurological patients using functional magnetic resonance imaging" . (2015). Doctoral Thesis, University of Buenos Aires.
 
