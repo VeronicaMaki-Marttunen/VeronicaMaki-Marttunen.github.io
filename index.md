@@ -3,11 +3,11 @@ layout: page
 title: ""
 ---
 
-<img src="veronica-profile.jpg" alt="Verónica Mäki-Marttunen"
-     style="float:left; margin:0 20px 20px 0; width:200px;">
-
 ## About Me
 
+<img src="veronica-profile.jpg" alt="Verónica Mäki-Marttunen"
+     style="float:left; margin:0 20px 20px 0; width:200px;">
+     
 How seemingly irregular, spiky brain activity gives rise to our rich subjective experience and our ability to interact with the environment, reflect, think, and discover? 
 I am a biologist and experimental neuroscientist and am interested in unveiling the brain mechanisms underlying consciousness and cognition. My current research is on the role of neuromodulatory systems on behavior and brain activity and dynamics. This is challenging in humans, and therefore I am employing a variety of methods, including pharmacology, MRI and neurophysiological measures such as pupillometry and EEG. I am also interested in the use of AI in research and the scientific practice, which I believe is now a new experimental ground.
 
