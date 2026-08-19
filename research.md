@@ -3,8 +3,6 @@ layout: page
 title: "Research"
 ---
 
-List of publications
-
 A. Peer-reviewed scientific articles
 
 1.	Mäki-Marttunen, V., Diez, I., Cortes, J. M., Villarreal, M. F., & Chialvo, D. R. (2013). Disruption of transfer entropy and inter-hemispheric brain functional connectivity in patients with disorder of consciousness. Front Neuroinform, 13;7:24. 
