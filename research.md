@@ -30,7 +30,9 @@ A. Peer-reviewed scientific articles
 23. V Mäki-Marttunen, U Sailer, J Kopal, E Hagen, A Shadrin, OA Andreassen, ... (accepted) Large-scale neuroimaging and genetic analyses of the human thalamus in loneliness. Biological Psychiatry Global Open Science, 100798
 24. V Mäki-Marttunen. (2026) Infra-slow brain fluctuations: a taxonomy of mechanistic hypotheses. Neuroscience & Biobehavioral Reviews, 106825
  
+
 B. Preprints
+
 1.	Amekran, N., Mäki-Marttunen, V. Working memory-related activity in catecholaminergic nuclei in schizophrenia. BioRxiv (2023) https://doi.org/10.1101/2023.08.28.555235
 2.	V Mäki-Marttunen, T Hagen, T Espeseth. (2025) Neural correlates of image memorability: Combining large-scale 7T fMRI with machine learning-based predictions. BioRxiv (2025) 2025.04. 06.647493
 3.	T Mäki-Marttunen, N Parker, V Mäki-Marttunen, SA Neymotin, A Shadrin, ... Multimodal evidence for a mechanistic model of working memory deficits in schizophrenia. medRxiv, 2026.06. 24.26356367
