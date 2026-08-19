@@ -23,7 +23,13 @@ I) Modulation of slow brain dynamics: I investigate how slow fluctuations in bra
 
 - Shape ongoing brain dynamics across multiple time scales  
 - Influence cognition and behavior  
-- Can be modelled and understood using computational and theoretical frameworks  
+- Can be modelled and understood using computational and theoretical frameworks
+
+II) The human brainstem neuromodulatory systems: I investigate brainstem nuclei characteristics in health and disease:
+
+- Strong methodological development and validation for better localisation of small brainstem nuclei  
+- Relation to lifestyle, cognition and behavior  
+- Use of AI to apply analyses on large samples  
 
 For more details, see the **[Research](/research/)** page.
 
@@ -45,7 +51,8 @@ You can find more information on courses and supervision on the **[Teaching](/te
 
 - Latest publication: *Large-scale neuroimaging and genetic analyses of the human thalamus in loneliness* (2026) – Structural thalamic signatures in loneliness, dependent on frequency of social contact, and with possible shared genetics with development.
 - Latest review: *Infra-slow brain fluctuations: a taxonomy of mechanistic hypotheses* (2026) – A comprehensive review of infra-slow brain activity, and a proposed framework on the brain balance between activation and regulation.  
-- Recent conference attendance: *FENS 2026, Barcelona* – I presented our current work on brainstem MRI in a large, large sample.  
+- Recent conference attendance: *FENS 2026, Barcelona* – I presented our current work on brainstem MRI in a large, large sample.
+- Recent conference attendance: *OHBM 2026, Bordeaux* – I presented my latest work on psychedelics effects on brain dynamics.  
 <!-- New blog post: *Post title* – see the **[Blog](/blog/)** page for reflections on academia and neuroscience. -->
 
 For a full overview of my positions, publications, and grants, visit my **[CV](/cv/)** page.
