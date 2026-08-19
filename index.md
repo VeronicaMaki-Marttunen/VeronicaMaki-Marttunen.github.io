@@ -18,8 +18,6 @@ I am currently a researcher at the Brain plasticity and psychiatry lab at Oslo U
 <br style="clear:both;">
 ---
 
-<!## Reflections on Discovery>
-
 > There is nothing so easy as what was discovered yesterday,  
 > nor so difficult as what will be discovered tomorrow.  
 > — Jean-Baptiste de Biot
