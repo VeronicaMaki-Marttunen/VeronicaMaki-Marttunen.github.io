@@ -3,7 +3,7 @@ layout: page
 title: "Home"
 ---
 
-![Verónica Mäki-Marttunen](assets/img/veronica-profile.webp)
+![Verónica Mäki-Marttunen](assets/img/veronica-profile.jpg)
 
 ## About Me
 
