@@ -38,7 +38,7 @@ I investigate how slow fluctuations in brain activity and neuromodulatory system
 
 II) The human brainstem neuromodulatory systems
 
-I investigate brainstem nuclei characteristics in health and disease:
+I investigate brainstem nuclei characteristics in health, disease and the lifespan:
 
 - Strong methodological development and validation for better localisation of small brainstem nuclei  
 - Relation to lifestyle, cognition and behavior  
