@@ -37,7 +37,7 @@ B. Preprints
 2.	V Mäki-Marttunen, T Hagen, T Espeseth. (2025) Neural correlates of image memorability: Combining large-scale 7T fMRI with machine learning-based predictions. BioRxiv (2025) 2025.04. 06.647493
 3.	T Mäki-Marttunen, N Parker, V Mäki-Marttunen, SA Neymotin, A Shadrin, ... Multimodal evidence for a mechanistic model of working memory deficits in schizophrenia. medRxiv, 2026.06. 24.26356367
 
-C. Publications intended for the general public, linked to the applicant’s research
+C. Publications intended for the general public
 1.	Blog post: Hva skjer når hjernen blir overbelastet? Mäki-Marttunen, V. 2018 Forskning.no https://forskning.no/stress-forskeren-forteller-hjernen/hva-skjer-nar-hjernen-blir-overbelastet/1189491
 2.	Blog post: Tracing consciousness down to the cell. Mäki-Marttunen, V. 2022 Leiden Psychology Blog. https://www.leidenpsychologyblog.nl/articles/tracing-consciousness-down-to-the-cell
 
