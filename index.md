@@ -62,6 +62,8 @@ You can find more information on courses and supervision on the **[Teaching](/te
 
 ## Highlights
 
+- Recent meeting attendance: *COST Action on Brainstem Imaging, first meeting 2026, Innsbruck*.
+- Recent meeting attendance: *Locus coeruleus meeting 2026, Innsbruck* – I presented my ongoing work on large scale assessment of locus coeruleus. Talk preprint: Large scale imaging of locus coeruleus. Mäki-Marttunen, V. 10.5281/zenodo.22454006 
 - Latest publication: *Large-scale neuroimaging and genetic analyses of the human thalamus in loneliness* (2026) – Structural thalamic signatures in loneliness, dependent on frequency of social contact, and with possible shared genetics with development.
 - Latest review: *Infra-slow brain fluctuations: a taxonomy of mechanistic hypotheses* (2026) – A comprehensive review of infra-slow brain activity, and a proposed framework on the brain balance between activation and regulation.  
 - Recent conference attendance: *FENS 2026, Barcelona* – I presented our current work on brainstem MRI in a large, large sample.
